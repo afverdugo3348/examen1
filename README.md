@@ -6,3 +6,5 @@
 #Toque personal: Darse cuenta que el método que nos pasó John nos da a los Seguidos y no a los Seguidores :)
 
 #Se realizaron cuatro componentes de React para renderizar modularmente.
+
+#Para ejecutar, entre a la url :https://examen1afverdugo3348.herokuapp.com/
